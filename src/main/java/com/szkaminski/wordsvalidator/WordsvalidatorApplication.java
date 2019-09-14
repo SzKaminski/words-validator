@@ -1,0 +1,13 @@
+package com.szkaminski.wordsvalidator;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WordsvalidatorApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(WordsvalidatorApplication.class, args);
+    }
+
+}
